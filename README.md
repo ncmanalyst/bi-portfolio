@@ -1,6 +1,6 @@
 # bi-portfolio
 Business Intelligence & Sales Ops Portfolio
-##Welcome to my portfolio. Here I showcase data-driven solutions for sales operations, focusing on liquidity protection and pipeline efficiency.
+## Welcome to my portfolio. Here I showcase data-driven solutions for sales operations, focusing on liquidity protection and pipeline efficiency.
 
 # Projects
 
