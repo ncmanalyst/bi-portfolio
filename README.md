@@ -1,4 +1,28 @@
 # bi-portfolio
+Business Intelligence & Sales Ops Portfolio
+Welcome to my portfolio. Here I showcase data-driven solutions for sales operations, focusing on liquidity protection and pipeline efficiency.
+
+🚀 Projects
+1. Revenue Leakage & Cash Flow Monitor
+
+Goal: Detect and prioritize income gaps based on the weekly Burn Rate.
+
+
+Key Achievement: Automated identification of "Critical Impact" accounts like Global Soft (3,000 debt).
+
+
+Tools: Advanced Excel, Conditional Formatting, Dashboards.
+
+2. Sales Pipeline Velocity Analysis
+
+Goal: Reduce the sales cycle by identifying bottlenecks.
+
+
+Key Achievement: Flagged "Slow Moving" deals that exceeded 30 days (e.g., Global Soft at 41 days).
++1
+
+
+Tools: Logical Formulas (IF), Time-series Analysis.
 Business Intelligence dashboards focused on financial and behavioral analytics
 # Business Intelligence Portfolio
 
