@@ -2,7 +2,7 @@
 Business Intelligence & Sales Ops Portfolio
 ##Welcome to my portfolio. Here I showcase data-driven solutions for sales operations, focusing on liquidity protection and pipeline efficiency.
 
-### Projects
+# Projects
 
 ## Project 1. Revenue Leakage & Cash Flow Monitor
 - Goal: Detect and prioritize income gaps based on the weekly Burn Rate.
@@ -20,7 +20,7 @@ Business Intelligence & Sales Ops Portfolio
 - Product Strategy: Applied the Pareto Principle (80/20), discovering that backpacks and sneakers generate the vast majority of revenue.
 - Proposed Actions: Suggested creating "Bundles" to clear low-turnover inventory and loyalty campaigns for flagship products.
 
-### Dashboards
+# Dashboards
 
 ## Dashboard 1: Financial Operations Dashboard
 
