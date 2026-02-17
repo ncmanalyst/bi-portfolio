@@ -1,37 +1,28 @@
 # bi-portfolio
 Business Intelligence & Sales Ops Portfolio
-Welcome to my portfolio. Here I showcase data-driven solutions for sales operations, focusing on liquidity protection and pipeline efficiency.
+##Welcome to my portfolio. Here I showcase data-driven solutions for sales operations, focusing on liquidity protection and pipeline efficiency.
 
-🚀 Projects
-1. Revenue Leakage & Cash Flow Monitor
+### Projects
 
-Goal: Detect and prioritize income gaps based on the weekly Burn Rate.
+## Project 1. Revenue Leakage & Cash Flow Monitor
+- Goal: Detect and prioritize income gaps based on the weekly Burn Rate.
+- Key Achievement: Automated identification of "Critical Impact" accounts like Global Soft (3,000 debt).
+- Tools: Advanced Excel, Conditional Formatting, Dashboards.
 
+## Project 2. Sales Pipeline Velocity Analysis
 
-Key Achievement: Automated identification of "Critical Impact" accounts like Global Soft (3,000 debt).
+- Goal: Reduce the sales cycle by identifying bottlenecks.
+- Key Achievement: Flagged "Slow Moving" deals that exceeded 30 days (e.g., Global Soft at 41 days).
+- Tools: Logical Formulas (IF), Time-series Analysis
 
+## Project 3. Performance and Distribution Analysis (Q1 2024)
+- Sales Diagnosis: Detected an 8.1% drop in February revenue compared to January, identifying a post-season slump.
+- Product Strategy: Applied the Pareto Principle (80/20), discovering that backpacks and sneakers generate the vast majority of revenue.
+- Proposed Actions: Suggested creating "Bundles" to clear low-turnover inventory and loyalty campaigns for flagship products.
 
-Tools: Advanced Excel, Conditional Formatting, Dashboards.
+### Dashboards
 
-2. Sales Pipeline Velocity Analysis
-
-Goal: Reduce the sales cycle by identifying bottlenecks.
-
-
-Key Achievement: Flagged "Slow Moving" deals that exceeded 30 days (e.g., Global Soft at 41 days).
-+1
-
-
-Tools: Logical Formulas (IF), Time-series Analysis.
-Business Intelligence dashboards focused on financial and behavioral analytics
-# Business Intelligence Portfolio
-
-This repository contains BI dashboards designed to transform data into
-clear, actionable insights for decision-making.
-
----
-
-## Project 1: Financial Operations Dashboard
+## Dashboard 1: Financial Operations Dashboard
 
 ### Overview
 A financial operations dashboard built to monitor cash flow, liquidity,
