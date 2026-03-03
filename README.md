@@ -1,6 +1,6 @@
-# bi-portfolio
-Business Intelligence & Sales Ops Portfolio
-## Welcome to my portfolio. Here I showcase data-driven solutions for sales operations, focusing on liquidity protection and pipeline efficiency.
+# Strategic Operations & Relationship Tracking Portfolio
+Business Development Operations & Network Growth
+## Welcome to my portfolio. Here I showcase data-driven strategies for relationship management and network growth, focusing on engagement optimization and high-volume outreach efficiency.
 
 # Projects
 
