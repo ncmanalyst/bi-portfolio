@@ -1,0 +1,41 @@
+# Customer Churn & Retention Analysis
+
+## Business Problem
+This project analyzes customer churn behavior to identify patterns affecting retention, revenue loss, and customer engagement.
+
+## Objectives
+- Analyze churn trends
+- Identify high-risk customer segments
+- Evaluate revenue impact
+- Generate actionable retention insights
+
+## Tools Used
+- SQL
+- Python
+- Power BI
+- Figma
+- Excel
+
+## Dataset Overview
+The dataset contains customer subscription, engagement, support activity, and revenue information.
+
+## Key KPIs
+- Churn Rate
+- Retention Rate
+- Revenue Lost
+- Customer Lifetime Value
+
+## Key Insights
+- Monthly contracts showed the highest churn rate.
+- Enterprise churn generated significant revenue loss.
+- Basic customers presented the highest abandonment rate.
+- Low engagement correlated strongly with churn behavior.
+
+## Dashboard Preview
+(Add screenshot here)
+
+## Recommendations
+- Promote long-term subscription plans.
+- Improve retention campaigns for Basic customers.
+- Prioritize Enterprise customer retention.
+- Monitor engagement inactivity indicators.
